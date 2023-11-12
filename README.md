@@ -1348,7 +1348,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
   - GB +1PP
   - FR -1PP
 
-## 1806-06: June
+## 1807-06: June
 
 ### Political Phase
 
@@ -1357,7 +1357,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
 
 ### Combats
 - Field Combat in Leghorn: A(AU) vs D(SP)
-  - echelon vs escalated counter attack 
+  - echelon vs escalated counter attack
   - setup: AU 31I 1M 5C (37; 3.1) vs SP 28I 6C (34; 3.0)
   - losses: AU -1M -2I vs SP -10I
   - Sp breaks
@@ -1386,7 +1386,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
 
 - AU: Trieste
 
-## 1806-07: July
+## 1807-07: July
 
 ### Political Phase
 
@@ -1396,11 +1396,11 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
 ### Combat
 - Siege in Belgrad: A(AU) - D(TK)
   - breach
-  - setup: AU 5G 10M 35I 7C (57; 3.1) vs TK 9FI 4I (13; 2.) 
+  - setup: AU 5G 10M 35I 7C (57; 3.1) vs TK 9FI 4I (13; 2.)
   - losses: AU -1M -1I vs TK -9FI (Serbia) -3I
   - AU breaks
 - Siege in Florence: A(AU) vs D(SP)
-  - breach and eliminated 
+  - breach and eliminated
   - no PP
 - Field Combat south of Leghorn: A(AU) vs D(SP)
   - probe vs defend
@@ -1410,7 +1410,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
     - AU: +3PP
     - SP: -3PP
 
-## 1806-08: August
+## 1807-08: August
 
 ### Political Phase
 
@@ -1432,7 +1432,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
   - breach and TK eliminated
     - AU +1PP
 - Siege in Rome: A(AU) vs D(SP)
-  - breach and 1I surrenders 
+  - breach and 1I surrenders
     - no PP
 
 ### Conquest
@@ -1440,13 +1440,13 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
   - AU +1PP
   - SP -1PP
 
-## 1806-09: September
+## 1807-09: September
 ### Combats
 
 - Field Combat in Belgrade: A(TK) vs D(AU)
   - assault vs outflank
-  - setup: TK 42I 25FI 2C 26FC (95; 2.5) vs AU 5G 39I 10M 8C (62; 3.1) 
-    - losses: TK -15 vs AU -19I 
+  - setup: TK 42I 25FI 2C 26FC (95; 2.5) vs AU 5G 39I 10M 8C (62; 3.1)
+    - losses: TK -15 vs AU -19I
     - both break
     - Charles wounded for 2 months
 - Siege in Lisboa: A(FR) vs D(GB)
@@ -1484,7 +1484,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
 
 - TK: Constantinople
 
-- RU: 
+- RU:
   - Swe: Stockholm
 
 # Template
@@ -1499,7 +1499,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
 ### Combat
 - Trivial Field Combat in Brest: A(FR) vs D(GB)
   - GB eliminated: -5I
-	- FR +1PP
+    - FR +1PP
     - GB -1PP
 
 
@@ -1534,12 +1534,12 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
   - no PP
 - AU and TK agree on informal peace
   - no PP
-  
+
 **Creating Alliances**
 - AU - TK
   - AU +1PP
   - TK +1PP
-  
+
 **Combined Movement**
 - PR - RU
 
@@ -1548,7 +1548,7 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
   - setup: 30I 3M 1C (34) vs Port 4I (4)
   - losses: FR -1M vs Port -4I
   - Portugal eliminated
-	- FR +1PP
+    - FR +1PP
 - Siege in Bordeaux: A(FR) vs D(GB)
   - setup: 1I (1; 4.5) vs 17I 3M 3C (23)
   - GB eliminated
@@ -1599,11 +1599,678 @@ Limited Field Combat in Witenberg: A(AU - PR - GB) vs D(FR)
   - setup: FR 17I 3M 1I (21; 3.7) vs Portugal 4I (4; 2.0
   - losses: FR -1I Port -4I
   - Port eliminated
-	- FR +1PP
-	- GB -1PP
+    - FR +1PP
+    - GB -1PP
 
 ## 1808-02: February
 
 ### Political Phase
 **Combined Movement**
 - PR - RU
+
+## 1808-03: March
+
+**Combined Movement**
+
+- AU - PR - RU
+
+
+## Economy Phase: 1808-03 March
+
+### Manipulation
+
+- FR: +1PP (-9MP)
+
+- TK: +1PP (-5MP)
+
+- RU: +1PP (-8MP)
+
+- SP: +2PP (-17$ -6MP)
+
+- PR: +1PP (-8MP)
+
+### Ship Building
+
+- FR: Toulons
+  - Hol: Amsterdam
+  - DK: Copenhagen
+
+- GB: London
+  - Naples: Palermo
+
+- AU: Trieste
+
+- Sp: Cadiz
+
+## 1808-04: April
+
+### Political Phase
+
+**Declarations of War**
+
+- PR - AU - RU declare war on France
+  - PR -3PP
+  - AU -3PP
+  - RU -3PP
+
+**Combined Movement**
+
+- AU - PR - RU
+
+### Combats
+
+- Siege in Dresden: A(PR) vs D(FR)
+  - breach: no PP
+
+- Siege in Munich: A(AU) vs D(FR)
+  - breach: no PP
+
+- Siege in Brest: GB(A) vs D(FR)
+  - FR starves: -1I
+  - FR scuttles 2 fleets (III & IV)
+    - -2PP
+
+- Field Combat in Magdeburg: A(FR) vs D(PR)
+  - Probe vs Widthdraw
+  - withdraw succeeds: no PP
+
+## 1808-05: May
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - PR - RU - GB
+
+### Combats
+
+- Siege in San Merlo: A(GB) vs D(FR)
+  - breach
+  - GB: +1PP
+
+### Conquest
+
+- AU:
+  - Lombardy
+  - Bavaria
+  - AU: +2PP
+  - FR: -2PP
+- PR:
+  - Saxony
+  - PR: +1PP
+  - FR: -1PP
+
+## 1808-06: June
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - PR - RU - GB
+
+### Combats
+
+- Siege in Turin: A(AU) vs D(FR)
+  - breach
+  - eliminated
+    - AU +1PP
+    -
+- Siege in Piacenza: A(AU) vs D(FR)
+  - breach
+  - eliminated
+    - AU +1PP
+
+- Trivial Field Combat in Stuttgart: FR(A) vs AU(D)
+  - setup: FR 20G 12A 60I 11C 6M -
+  - losses: FR -1M - AU -4I 2M
+  - AU eliminated
+    - AU -1PP
+    - FR +1PP
+
+### Conquest
+- PR conquers Lübeck
+  - PR +1PP
+  - FR -1PP
+
+## Economy Phase: 1808-06 June
+
+### Manipulation
+
+- FR: +1PP (-9MP)
+
+- TK: +1PP (-5MP)
+
+- RU: +1PP (-8MP)
+
+- SP: +1PP (-5MP)
+
+- PR: +1PP (-8MP)
+
+- AU: +1PP (-17$)
+
+### Ship Building
+
+- FR: Toulons
+  - Hol: Amsterdam
+  - DK: Copenhagen
+
+- GB: London
+
+- Sp: Cadiz
+
+## 1808-07: July
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - PR - RU - GB
+
+### Combats
+
+Siege in Kassel: A(FR) vs D(PR)
+- breach
+- setup: FR 20G 12A 39I 9C 6M (86; 4.1) - PR: 11I 3M (14; 2.8)
+- losses: -1M -1I - PR: -11I -3M
+- FR: +1PP
+
+### Conquests
+
+- PR conquers Hannover(FR) & Duchies(FR):
+  - FR: -2PP
+  - PR: +2PP
+
+## 1808-08: August
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - PR - RU - GB
+
+**Creating Alliances**
+- SP - GB
+  - SP +1PP
+  - GB +1PP
+
+### Combats
+
+- Siege in Bordeaux: A(FR) vs D(RU)
+  - breach
+  - setup: FR 65I 9M 5C (79; 3.8) - RU 9I 1M (10; 2.9)
+  - losses: FR -2I - RU -1M -9I
+  - RU eliminated
+    - RU -1PP
+
+- Field combat in Minden: A(FR) vs D(PR + RU + GB)
+  - probe vs defend
+  - setup: FR 20G 12A 17C 5M 50I (104; 4.1) - PR 8I 1M RU 10A 18I 2C GB 10I (49; 3.3)
+    - GB 2G 8I RU 10G 7C 30I PR 4I (57; insg. 105)
+  - losses: FR -2G -5M - 12I (19) - PR -1M -4I RU -17I -1C GB -6I   -27I -1C (29)
+  - RU + GB + PR breaks
+    - FR +4PP
+    - GB -1PP
+    - PR -2PP
+    - RU -3PP
+
+- Siege in Stuttgart: A(AU) vs D(FR)
+  - breach
+  - FR surrenders
+    - no PP
+
+- Siege in Freiburg: A(AU) vs D(FR)
+  - breach
+  - setup:
+  - FR eliminated
+    - AU +1PP
+
+- Field combat in Minden: A(FR) vs D(PR + RU + GB)
+  - escalated assault vs withdraw
+  - withdraw succeeds
+    - no PP
+
+## 1808-09: September
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - PR - RU - GB
+
+### Combats
+- Field combat in Zurich: A(FR) vs D(AU)
+  - probe vs withdraw
+  - automatic withdraw: no PP
+
+### Conquests
+
+- AU conquers Piedmont(FR) & Wurtemberg(FR)
+  - AU +2PP
+  - FR -2PP
+
+
+## Economy Phase: 1808-09 September
+
+### Manipulation
+
+- RU: +1PP (-8MP)
+
+- SP: +2PP (-17$ 65MP)
+
+- AU: +1PP (-17$)
+
+### Ship Building
+
+- FR
+  - Hol: Amsterdam
+  - DK: Copenhagen
+
+- GB: London
+
+- Sp: Cadiz
+
+## 1808-10: October
+
+### Political Phase
+
+**Peace Step**
+- FR sues PR for peace
+  - FR surrenders conditionally
+  - FR -5PP
+  - PR +3PP
+
+**Creating Alliances**
+- PR - FR
+  - PR +1PP
+  - FR +1PP
+
+**Combined Movement**
+
+- AU - RU - GB
+
+## 1808-11: November
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - RU - GB
+
+### Combats
+
+- Siege in Saint Merlo: A(FR) vs D(GB)
+  - breach
+  - setup FR 2C 34I 6M (42; 3.8) vs GB 6I (6; 4.5)
+  - losses: FR -1I vs GB -6I
+  - GB eliminated
+    - FR +1PP
+
+- Siege in Turin: A(FR) vs D(AU)
+  - breach
+  - AU surrenders
+    - captured: 5I 2M
+  - FR +1PP
+
+## 1808-12: December
+
+### Conquests
+
+- FR conquers Piedmont (AU)
+  - FR +1PP
+  - AU -1PP
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - RU - GB
+
+## Economy Phase: 1808-12 December
+
+### Manipulation
+
+- FR: +1PP (-9MP)
+
+- RU: +1PP (-8MP)
+
+- SP: +1PP (-11$)
+
+- TK: +1PP (-9$)
+
+- AU: +1PP (-17$)
+
+- PR: +1PP (-8MP)
+
+### Ship Building
+
+- FR: Toulons
+  - Hol: Amsterdam
+  - DK: Copenhagen
+
+- GB: London
+
+- Sp: Cadiz
+
+- TK: Constantinople
+
+- AU: Trieste
+
+## 1809-01: January
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - RU - GB
+
+### Combats
+- Siege in Stuttgart
+  - breach: no PP
+
+## 1809-02: February
+
+### Political Phase
+
+**Combined Movement**
+
+- AU - RU - GB
+
+### Conquests
+
+- FR conquers Wurtemberg (AU)
+  - FR +1PP
+  - AU -1PP
+
+## 1809-03: March
+
+### Political Phase
+**Combined Movement**
+
+- AU - RU - GB
+
+### Combats
+
+- Siege in Milan: A(FR) vs D(AU)
+  - breach
+  - setup: FR 27I 3M 2C (32;3.8) vs AU 10I (10;3.0)
+  - losses: FR -2M - I vs AU -8I
+  - no PP
+
+## Economy Phase: 1809-03 March
+
+
+### Manipulation
+
+- FR: +1PP (-9MP)
+
+- RU: +1PP (-8MP)
+
+- SP: +1PP (-11$)
+
+- TK: +1PP (-9$)
+
+- AU: +1PP (-17$)
+
+- PR: +1PP (-11$)
+
+### Ship Building
+
+- FR: Toulons
+  - Hol: Amsterdam
+  - DK: Copenhagen
+
+- GB: London
+  - Naples: Palermo
+
+- Sp: Cadiz
+
+- TK: Constantinople
+
+- AU: Trieste
+
+- RU: St. Petersburg
+  - SWE: Stockholm
+
+## 1809-04: April
+
+### Political Phase
+**Declarations of War**
+
+- PR declares war on AU
+  - PR -5PP
+
+**Call to Allies**
+
+- AU calls RU
+  - RU: -5PP
+- AU calls GB
+  - GB: -5PP
+
+**Combined Movement**
+
+- AU - RU - GB
+
+### Combats
+
+- Siege in Olmutz: A(PR) vs D(AU)
+  - no breach
+
+- Field Combat in Theresienstadt: A(PR) vs D(RU)
+  - outflank vs. counter attack
+  - setup: PR 40I 6M 10C 16I(PL)+2C 7G+1C (82; 3.5; outflank 26) - RU 20I 6C 10A (36; 3.1)
+  - losses: PR 12I 4M (-16) vs RU -10I -1G -1C - GB -3I AU -6I -2C (-21)
+  - PR wins
+    - PR: +3PP
+    - RU: -3PP
+    - GB: -1PP
+    - AU: -1PP
+
+- AU field combat in Olmutz (A: AU RU - D: PR )
+  - echelon vs cordon
+  - setup: AU 4C GB 1G 9I RU 32I 8C (54; 4.3)  - PR 24I 4M 5C (Hohenlohe; 33, 3.0)
+  - losses: AU -2C - RU -7I - GB -1I (-8I -2C) - PR -4M -10I (-14)
+  - PR wins
+    - PR +3PP
+    - RU -2PP
+    - GB -1PP
+    - AU -1PP
+
+- AU field combat in Theresienstadt: A(AU+RU) vs D(PR)
+  - echeon vs outflank
+  - setup: AU 25I 9C 5M 9G RU 27I 2M 6C 10A (89; 3.2) vs 29I 13I(PL) 13C 7G vs (62; 3.5)
+  - losses: PR -5I -2I (PL) - AU -11I -4C RU -8I -6C (16I 11C)
+
+- Field combat in Mantua: A(AU) vs D(FR)
+  - setup: FR 1M 2C 26I (29; 3.9) vs AU 4C 10M 65I (79;3.1)
+  - losses: FR -1M -26I (-27) vs AU -3M -3I (-6)
+  - both break: no PP
+
+1809-05: May
+
+### Political Phase
+
+**Minor Country Control Step**
+- GB loses (instability zone)
+  - Gibraltar
+  - Malta
+  - Sardinien
+  - Algerien
+  - Norway
+
+**Combined Movement**
+
+- RU - GB
+
+## 1809-06: June
+
+### Political Phase
+
+**Declarations of War**
+
+- SP declares war on Algeria:
+  - SP: -1PP
+  - AU takes control: +1PP
+- GB declares war on Gibraltar
+  - GB: -1PP
+  - RU takes control: +1PP
+- TK declares war on Sardinia
+  - TK: -1PP
+  - SP takes control: +1PP
+
+**Combined Movement**
+- AU - TK
+
+### Combats
+
+- Siege in Milan: A(FR) vs D(AU)
+  - setup: FR 13I 1C
+  - breach
+    - FR +1PP
+
+- Siege in Mantua: A(FR) vs D(AU)
+  - setup: FR 3M 26I 8C (37; 3.8) vs AU 2M 14I (16; 2.9)
+  - losses: FR -4I vs AU -2M -10I
+  - breach: both break
+    - no PP
+
+- Siege in Munich: A(FR) vs D(AU)
+  - setup: FR 14I 1C vs AU 1I
+  - eleminated: no PP
+
+- Siege in Salzburg: A(FR) vs D(AU)
+  - setup: FR 57I 8M 20G 12A 19C (116; 4.2) vs AU 9I (9; 3.0)
+  - losses: FR -1M vs AU -9I
+  - breach: eleminated
+    - FR: +1PP
+
+- Field Combat in Olmutz: A(AU) vs D(PR)
+  - outflank vs cordon
+  - setup: PR 16I 3C (19; 3.2) vs AU 10G 8C 80I 14M (112; 3.1)
+  - losses: PR -16I (-16) vs AU -2G -2M -1C (-5)
+
+- Siege in Theresienstadt: A(PR) vs D(AU)
+  - setup: PR 7G 45I 13C 16I(PL) (81;) vs AU 6I(6; 3.0)
+  - losses: PR -1M vs AU -6I
+  - breach & eleminated:
+    - PR +1PP
+
+## Economy Phase: 1809-06 June
+
+### Manipulation
+
+- FR: +1PP (-9MP)
+
+- RU: +1PP (-8MP)
+
+- SP: +1PP (-11$)
+
+- TK: +1PP (-9$)
+
+- GB: +2PP (-24$ 6MP)
+
+- PR: +1PP (-11$)
+
+### Ship Building
+
+- FR: Toulons
+  - Hol: Amsterdam
+  - DK: Copenhagen
+
+- GB: London
+  - Naples: Palermo
+
+- Sp: Cadiz
+
+- AU: Trieste
+
+## 1809-07: July
+
+### Political Phase
+
+**Declarations of War**
+
+- no war
+
+### Combats
+
+- Siege in Mantua: A(FR) vs D(AU)
+  - breach: surrender
+  - FR +1PP
+
+- Field combat in Theresienstadt: A(AU) vs D(PR)
+  - probe vs outflank
+  - setup: AU 12M 93I 7C 8G (120;3.1) vs PR 1M 45I 13C 7G PL_16I (82;3.5)
+  - losses: AU -4M -17I -1G (-22) - PR -33I -1G (-34)
+
+### Conquest
+
+- FR conquers Lombardy
+  - FR +1PP
+  - AU -1PP
+
+- FR conquers Bavaria
+  - FR +1PP
+  - AU -1PP
+
+- SP conquers Algeria
+  - SP +1PP
+  - AU -1PP
+
+- GB conquers Gibraltar
+  - GB +1PP
+  - RU -1PP
+
+- TK conquers Sardinia
+  - TK +1PP
+  - SP -1PP
+
+## 1809-08: August
+
+### Political Phase
+
+**Declarations of War**
+
+- TK declares war on Pr
+  - TK -3PP
+
+** Call to Allies **
+- PR calls FR to help
+- FR declare war on TK: -5PP
+
+** Minor Country Control
+- AU loses
+  - Naples
+  - Romagna
+  - Papacy
+  - Tuscany
+  - Venecia
+- FR takes control of
+  - Romagna
+  - Venecia
+
+**Combined Movement**
+- AU - TK
+- FR - PR
+
+### Combats
+
+- Field combat in Theresienstadt: A(AU+TK) vs D(PR)
+  - assault vs outflank
+  - setup: AU 5G 52I 8M 5C - TK 51I 24C(145; 2.8) vs PR 4M 40I 13C 6G PL_13I (76;3.5)
+  - losses: AU -1G -1C -8M -6I - TK -2C -14I  (-28I -1G -3C) - PR -4M -17I (21)
+  - Attacker breaks
+    - AU -3PP
+    - TK -3PP
+    - PR +3PP
+
+- Field combat in Wittenberg: A(AU+TK) vs D(PR)
+  - escalated assault vs cordon
+  - setup: AU 2G 25I 4M 4C - TK 27I 8C (70; 2.6) vs PR 22I 10C 2M (34; 3.3)
+  - losses: AU -2M -1I - TK -3I (-3M -3I) - PR -2M -22I -3C (-27)
+  - both break: no PP
+
+- Siege in Venice: A(FR) vs D(AU)
+  - breach: Defender surrenders
+  - FR captures 6I from AU
+  - FR +1PP
+ 
